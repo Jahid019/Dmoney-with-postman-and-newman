@@ -31,7 +31,7 @@ This project has automate user API from postman using newman
 
 ## How to run:
 - open cmd on your system
-- Newman Install command - <mark>npm install -g newman</mark>
+- Newman Install command - <span style="background-color: #FFFF00">npm install -g newman</span>
 - HTML extra install command - <mark>npm install -g newman-reporter-html</mark>
 - Run command - <mark>Dmoney with postman and newman Copy.postman_collection.json</mark>
 
