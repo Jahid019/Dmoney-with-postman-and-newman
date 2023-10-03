@@ -1,7 +1,7 @@
 # Dmoney API Automation Project
 ## Test Scenario
 1. Admin creates an agent and random 2 customers. Admin email: admin@roadtocareer.net/ Pass: 1234
-2. Deposit some money from SYSTEM account to the agent. System account: SYSTEM(range 10 tk to 10000 tk) 
+2. Deposit some money from SYSTEM account to the agent. System account SYSTEM(range 10 tk to 10000 tk) 
 
 3. Agent deposit to any of 1 customer
 
