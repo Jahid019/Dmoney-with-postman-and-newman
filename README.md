@@ -30,9 +30,10 @@ This project has automate user API from postman using newman
 - NodeJS
 
 ## How to run:
-- ``` git clone ```
-- ``` npm i ```
-- ``` npm test ```
+- open cmd on your system
+- Newman Install command - <mark>npm install -g newman</mark>
+- HTML extra install command - <mark>npm install -g newman-reporter-html</mark>
+- Run command - <mark>Dmoney with postman and newman Copy.postman_collection.json</mark>
 
 A report will be generate in your project source root
 
@@ -44,6 +45,8 @@ A report will be generate in your project source root
 
 ## API Documentation:
 https://documenter.getpostman.com/view/24973005/2s93sdYXKD
+![Screenshot (22)](https://github.com/Jahid019/Dmoney-with-postman-and-newman/assets/112567359/a5bdf04b-3c43-4f7d-9033-af73540e6802)
+
 
 ## Report:
 
