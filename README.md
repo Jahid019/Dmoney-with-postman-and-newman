@@ -33,7 +33,7 @@ This project has automate user API from postman using newman
 - open cmd on your system
 - Newman Install command - __npm install -g newman__
 - HTML extra install command - __npm install -g newman-reporter-html__
-- Run command - __Dmoney with postman and newman Copy.postman_collection.json__
+- Run command - __Dmoney.json__
 
 A report will be generate in your project source root
 
